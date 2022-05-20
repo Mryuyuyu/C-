@@ -1,0 +1,8 @@
+1 lucky 1
+2 liu2 2
+3 san3 3
+4 jack 2
+6 coco 1
+7 nana 1
+8 min 3
+11 mike 1
